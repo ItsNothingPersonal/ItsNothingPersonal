@@ -1,16 +1,14 @@
-Hi 👋 My name is Sebastian Tremmel
-==================================
+# Hi 👋 My name is Sebastian Tremmel
 
-Web & Script Developer
-----------------------
+## Web & Script Developer
 
 I've been coding in some form for about 10 years, switching to web development 5 years ago.
 
-* 🌍  I'm based in Langenzenn, Bavaria, Germany
-* ✉️  You can contact me at [littleperlmonk+career@gmail.com](mailto:littleperlmonk+career@gmail.com)
-* 🚀  I'm currently working on [an inventory management website for a local gaming club](http://www.nt-inventar.de)
-* 🧠  I'm learning svelte/sveltekit
-* 🤝  I'm open to collaborating on interesting projects, be it something frontend or backend related
+- 🌍  I'm based in Langenzenn, Bavaria, Germany
+- ✉️  You can contact me at [littleperlmonk+career@gmail.com](mailto:littleperlmonk+career@gmail.com)
+- 🚀  I'm currently working on [an inventory management website for a local gaming club](http://www.nt-inventar.de)
+- 🧠  I'm learning svelte/sveltekit
+- 🤝  I'm open to collaborating on interesting projects, be it something frontend or backend related
 
 ### Skills
 
@@ -24,10 +22,10 @@ I've been coding in some form for about 10 years, switching to web development 5
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
 ### Socials
