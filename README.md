@@ -1,6 +1,6 @@
 # Hi 👋 My name is Sebastian Tremmel
 
-## Web & Script Developer
+## Web, Script & Backend Developer
 
 I've been coding in some form for about 10 years, switching to web development 5 years ago.
 
